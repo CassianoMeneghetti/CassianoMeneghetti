@@ -1,6 +1,5 @@
 ## Olá, eu sou o Cassiano Meneghetti, muito prazer 👍
 
-- 💻 Analista de Suporte Técnico - DOCSERV
 - 📖 Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
