@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="./assets/sitcom-banner.svg" width="100%" alt="Cassiano Meneghetti — O incrível mundo dos bugs"/>
+<img src="./assets/chaos-banner.svg" width="100%" alt="Cassiano Meneghetti — Full Stack Overflow"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=It+works+on+my+machine;99+little+bugs+in+the+code;Have+you+tried+turning+it+off+and+on%3F;Powered+by+coffee+and+git+commit" alt="Piadas de programação animadas"/>
 
-**🚨 ATENÇÃO: este perfil foi homologado pelo instituto Tirei da Minha Cabeça.**
+**🚨 ATENÇÃO: ESTE PERFIL NÃO PASSOU NO CONTROLE DE QUALIDADE.**
+
+**Garoto de programa (em Python) · Full Stack Overflow · Engenheiro de Gambiarra**
+
+Disponível para oportunidades que paguem em dinheiro, não em experiência.
+
+![ISO](https://img.shields.io/badge/ISO_9001-confia_no_pai-ff00aa?style=for-the-badge) ![Deploy](https://img.shields.io/badge/deploy-seja_o_que_Deus_quiser-ff8800?style=for-the-badge) ![QA](https://img.shields.io/badge/QA-foi_mal-a855f7?style=for-the-badge)
 
 Uma série sobre um desenvolvedor, seus servidores e os bugs que se recusam a morrer.
 
@@ -13,6 +19,11 @@ Uma série sobre um desenvolvedor, seus servidores e os bugs que se recusam a mo
 [![GitHub](https://img.shields.io/badge/Assistir-aos_repositórios-0d1117?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/CassianoMeneghetti?tab=repositories)
 
 </div>
+
+
+## 💀 CLT Simulator 2026 — O jogo que ninguém pediu
+
+<img width="100%" src="./assets/clt-simulator.svg" alt="Simulação fictícia da rotina de TI"/>
 
 ## 🤡 Quem autorizou esse cidadão a mexer no servidor?
 
@@ -24,6 +35,11 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 <img width="100%" src="./assets/developer-life.svg" alt="Simulação humorística dos níveis de café, bugs e paciência"/>
 <img width="100%" src="./assets/friday-deploy.svg" alt="Cena fictícia de um deploy de sexta-feira"/>
 </div>
+
+
+## 🚨 Erro de sistema — Tela azul do funcionário
+
+<img width="100%" src="./assets/meme-bsod.svg" alt="Tela azul humorística"/>
 
 ## 📺 Plantão da TI
 
@@ -46,6 +62,11 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 <img width="100%" src="./assets/meme-cat-review.svg" alt="Gato sênior revisando código"/>
 
+
+## 🐕 Caramelo DevOps — Nosso CISO
+
+<img width="100%" src="./assets/caramelo-devops.svg" alt="Cachorro caramelo animado como personagem de segurança"/>
+
 ## 🎬 Projetos que inexplicavelmente funcionam
 
 <div align="center">
@@ -63,6 +84,11 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 <img width="100%" src="./assets/meme-printer.svg" alt="Batalha fictícia contra uma impressora"/>
 
+
+## ⚔️ Cassiano's Bizarre Adventure — RPG de firma
+
+<img width="100%" src="./assets/legacy-rpg.svg" alt="Batalha animada fictícia contra código legado"/>
+
 ## 💀 SQL: o filme de terror
 
 <img width="100%" src="./assets/meme-sql.svg" alt="Piada fictícia sobre SQL"/>
@@ -72,6 +98,15 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 <div align="center">
 <img width="100%" src="./assets/legacy-runner.svg" alt="Dinossauro animado pulando bugs"/>
 </div>
+
+
+## 📉 Bolsa da TI — Ibovespa da gambiarra
+
+<img width="100%" src="./assets/meme-market.svg" alt="Gráfico fictício de café e paciência"/>
+
+## 🏆 Medalhas que o GitHub se recusou a reconhecer
+
+<img width="100%" src="./assets/meme-achievements.svg" alt="Conquistas humorísticas não oficiais"/>
 
 ## 📈 Evidências de que eu trabalho (estatísticas reais)
 
@@ -114,6 +149,8 @@ Nenhum servidor foi ferido durante esta comédia. Os memes e incidentes são fic
 
 Se chegou até aqui, abra um chamado. Prazo estimado: assim que o café ficar pronto.
 
-`Continua no próximo commit...`
+**© Organizações Tabajara da TI — Departamento de Gambiarra Aplicada.**
+
+`Continua no próximo commit... se o servidor deixar.`
 
 </div>
