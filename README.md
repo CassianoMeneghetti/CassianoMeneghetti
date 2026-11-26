@@ -1,153 +1,54 @@
-<h1 align="center">👋 Olá, eu sou Cassiano Meneghetti</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Infraestrutura+e+Suporte+T%C3%A9cnico;Automa%C3%A7%C3%A3o+de+Processos;APIs%2C+Bancos+de+Dados+e+Integra%C3%A7%C3%B5es;Sempre+construindo+e+evoluindo" alt="Typing SVG" />
-</p>
+<img src="./assets/profile-banner.svg" width="100%" alt="Cassiano Meneghetti — Development, Infrastructure and Automation"/>
 
-<p align="center">
-  <a href="https://github.com/CassianoMeneghetti">
-    <img src="https://img.shields.io/badge/GitHub-CassianoMeneghetti-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Connecting+systems+and+automating+processes;Exploring+networks+and+cybersecurity" alt="Animated introduction"/>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-0d1117?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/CassianoMeneghetti?tab=repositories)
 
-## 💻 Sobre mim
+</div>
 
-Sou profissional da área de tecnologia com experiência em:
+## 01 / About
 
-- desenvolvimento de sistemas
-- suporte técnico
-- infraestrutura
-- bancos de dados
-- automação de processos
-- integrações entre sistemas e APIs
+Desenvolvedor e profissional de TI. Construo sistemas, integro APIs e automatizo processos para resolver problemas reais em ambientes corporativos. Meu trabalho conecta desenvolvimento de software, infraestrutura e operações.
 
-Gosto de transformar problemas do dia a dia em **soluções práticas, automatizadas e escaláveis**.
+Atualmente, também aprofundo meus conhecimentos em redes e segurança da informação.
 
-### 🚀 Foco principal
-- Desenvolvimento web e back-end
-- Automação e integração de processos
-- Infraestrutura e ambientes corporativos
-- Bancos de dados e APIs
-- Redes, troubleshooting e serviços Windows
-- Evolução constante para redes e segurança
+## 02 / Engineering toolkit
 
----
+| Área | Tecnologias |
+| :--- | :--- |
+| Front-end | <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind" alt="TypeScript, JavaScript, React, Vite, Tailwind"/> |
+| Back-end | <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring" alt="Python, Java, FastAPI, Spring"/> |
+| Data | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis"/> · Oracle |
+| Infrastructure | <img src="https://skillicons.dev/icons?i=docker,linux,git,powershell" alt="Docker, Linux, Git, PowerShell"/> · Windows Server |
 
-## 🛠️ Stack e Tecnologias
+## 03 / Selected work
 
-### 👨‍💻 Desenvolvimento
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,vite,tailwind,html,css" />
-</p>
+| Projeto | Solução |
+| :--- | :--- |
+| **ERP / Sistema de Gestão** | Sistemas empresariais, integração de dados e automação de operações. `React` `TypeScript` `FastAPI` `PostgreSQL` |
+| **SMTP Tester Pro** | Diagnóstico de conectividade, autenticação e serviços de e-mail. `Java` `Swing` `SMTP` `OAuth` |
+| **PromoNet** | Processamento de ofertas e integrações com serviços externos. `Spring Boot` `RabbitMQ` `Redis` |
+| **Corporate IT Tools** | Monitoramento de serviços, impressão corporativa e automação de infraestrutura. `Python` `PowerShell` `Windows` |
 
-### ⚙️ Back-end e APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
-</p>
+[Explore os repositórios públicos →](https://github.com/CassianoMeneghetti?tab=repositories)
 
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+## 04 / Development activity
 
-### 🖥️ Infraestrutura e DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CassianoMeneghetti&bg_color=0b1423&color=94a3b8&line=38bdf8&point=5eead4&area=true&area_color=164e63&hide_border=true" alt="GitHub activity graph"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CassianoMeneghetti&show_icons=true&hide_border=true&bg_color=0b1423&title_color=38bdf8&text_color=cbd5e1&icon_color=5eead4" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoMeneghetti&layout=compact&hide_border=true&bg_color=0b1423&title_color=38bdf8&text_color=cbd5e1" alt="Repository languages"/>
+
+</div>
 
 ---
 
-## 📌 Áreas em que atuo
+<div align="center">
 
-- 🌐 Desenvolvimento de aplicações web
-- 🔌 Integrações entre sistemas e APIs
-- ⚙️ Automação de tarefas e processos
-- 🗄️ Modelagem e gerenciamento de bancos de dados
-- 🖨️ Ferramentas para ambientes corporativos e impressão
-- 🖥️ Infraestrutura, servidores e troubleshooting
-- 📡 Redes e serviços Windows
+`BUILD SYSTEMS  /  CONNECT IDEAS  /  KEEP LEARNING`
 
----
-
-## 🚀 Projetos em destaque
-
-### 🏢 ERP / Sistema de Gestão
-Sistema de gestão empresarial com arquitetura moderna e foco em produtividade, organização e escalabilidade.
-
-**Tecnologias:**  
-`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL`
-
----
-
-### 📧 SMTP Tester Pro
-Aplicação voltada a diagnóstico e testes de servidores SMTP, permitindo validar conectividade, autenticação e configurações de e-mail.
-
-**Tecnologias:**  
-`Java` `Swing` `SMTP` `OAuth`
-
----
-
-### 🤖 PromoNet
-Projeto de automação para coleta e processamento de ofertas, geração de links e integração com serviços externos.
-
-**Tecnologias:**  
-`Java` `Spring Boot` `PostgreSQL` `RabbitMQ` `Redis` `APIs`
-
----
-
-### 🖨️ Ferramentas para ambientes corporativos
-Soluções e automações voltadas para gerenciamento de impressão, monitoramento de serviços, filas de impressão e infraestrutura.
-
-**Tecnologias:**  
-`Python` `PowerShell` `Java` `Windows Services` `MySQL`
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CassianoMeneghetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoMeneghetti&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CassianoMeneghetti&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CassianoMeneghetti&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribuições animadas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CassianoMeneghetti/CassianoMeneghetti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/CassianoMeneghetti">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💡 Transformando problemas em soluções através da tecnologia.</b>
-</p>
+</div>
