@@ -25,14 +25,16 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 
 ## 03 / Selected work
 
-| Projeto | Solução |
-| :--- | :--- |
-| **ERP / Sistema de Gestão** | Sistemas empresariais, integração de dados e automação de operações. `React` `TypeScript` `FastAPI` `PostgreSQL` |
-| **SMTP Tester Pro** | Diagnóstico de conectividade, autenticação e serviços de e-mail. `Java` `Swing` `SMTP` `OAuth` |
-| **PromoNet** | Processamento de ofertas e integrações com serviços externos. `Spring Boot` `RabbitMQ` `Redis` |
-| **Corporate IT Tools** | Monitoramento de serviços, impressão corporativa e automação de infraestrutura. `Python` `PowerShell` `Windows` |
+<div align="center">
+
+<img width="48%" src="./assets/project-01.svg" alt="ERP / Sistema de Gestão — React, FastAPI, PostgreSQL"/>
+<img width="48%" src="./assets/project-02.svg" alt="SMTP Tester Pro — Java, Swing, SMTP, OAuth"/>
+<img width="48%" src="./assets/project-03.svg" alt="PromoNet — Spring Boot, RabbitMQ, Redis"/>
+<img width="48%" src="./assets/project-04.svg" alt="Corporate IT Tools — Python, PowerShell, Windows"/>
 
 [Explore os repositórios públicos →](https://github.com/CassianoMeneghetti?tab=repositories)
+
+</div>
 
 ## 04 / Development activity
 
@@ -44,6 +46,26 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoMeneghetti&layout=compact&hide_border=true&bg_color=0b1423&title_color=38bdf8&text_color=cbd5e1" alt="Repository languages"/>
 
 </div>
+
+## 05 / Contribution arcade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions/pacman-contribution-graph.svg"/>
+  <img width="100%" alt="Pac-Man percorrendo minhas contribuições" src="./assets/contributions/pacman-contribution-graph.svg"/>
+</picture>
+
+</div>
+
+## 06 / Contribution skyline
+
+<div align="center">
+<img width="100%" src="./assets/contributions/profile-night-green.svg" alt="Calendário tridimensional de contribuições"/>
+</div>
+
+<sub>Visualizações atualizadas diariamente via GitHub Actions · [Pac-Man](https://github.com/abozanona/pacman-contribution-graph) · [3D contributions](https://github.com/yoshi389111/github-profile-3d-contrib)</sub>
 
 ---
 
