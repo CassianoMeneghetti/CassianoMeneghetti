@@ -1,24 +1,27 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Cassiano Meneghetti — Development, Infrastructure and Automation"/>
+<img src="./assets/sitcom-banner.svg" width="100%" alt="Cassiano Meneghetti — O incrível mundo dos bugs"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Connecting+systems+and+automating+processes;Exploring+networks+and+cybersecurity" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=It+works+on+my+machine;99+little+bugs+in+the+code;Have+you+tried+turning+it+off+and+on%3F;Powered+by+coffee+and+git+commit" alt="Piadas de programação animadas"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-0d1117?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/CassianoMeneghetti?tab=repositories)
+**Uma série sobre um desenvolvedor, seus servidores e os bugs que se recusam a morrer.**
+
+[![GitHub](https://img.shields.io/badge/Assistir-aos_repositórios-0d1117?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/CassianoMeneghetti?tab=repositories)
 
 </div>
+
+## 🍿 Episódio piloto — Quem é esse cara?
+
+Desenvolvedor e profissional de TI. Construo sistemas, integro APIs, automatizo processos e trabalho com infraestrutura. Atualmente estudo redes e segurança da informação.
+
+Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, automatizo tarefas para não precisar fazê-las duas vezes e ocasionalmente descubro que o bug era uma configuração.
 
 <div align="center">
-<img width="100%" src="./assets/developer-system.svg" alt="Animated developer system boot sequence"/>
+<img width="100%" src="./assets/developer-life.svg" alt="Simulação humorística dos níveis de café, bugs e paciência"/>
+<img width="100%" src="./assets/friday-deploy.svg" alt="Cena fictícia de um deploy de sexta-feira"/>
 </div>
 
-## 01 / About
-
-Desenvolvedor e profissional de TI. Construo sistemas, integro APIs e automatizo processos para resolver problemas reais em ambientes corporativos. Meu trabalho conecta desenvolvimento de software, infraestrutura e operações.
-
-Atualmente, também aprofundo meus conhecimentos em redes e segurança da informação.
-
-## 02 / Engineering toolkit
+## 🎭 Elenco principal — As tecnologias
 
 | Área | Tecnologias |
 | :--- | :--- |
@@ -31,7 +34,7 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 <img width="100%" src="./assets/tech-orbit.svg" alt="Animated orbit of development and infrastructure technologies"/>
 </div>
 
-## 03 / Selected work
+## 🎬 Outras produções do estúdio
 
 <div align="center">
 
@@ -44,7 +47,13 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 
 </div>
 
-## 04 / Development activity
+## 🦖 Episódio especial — Corrida contra o legado
+
+<div align="center">
+<img width="100%" src="./assets/legacy-runner.svg" alt="Dinossauro animado pulando bugs"/>
+</div>
+
+## 📈 Audiência — Estatísticas reais do GitHub
 
 <div align="center">
 
@@ -55,7 +64,7 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 
 </div>
 
-## 05 / Contribution arcade
+## 🕹️ Intervalo comercial — Pac-Man
 
 <div align="center">
 
@@ -67,7 +76,7 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 
 </div>
 
-## 06 / Contribution skyline
+## 🏙️ Cidade dos commits
 
 <div align="center">
 <img width="100%" src="./assets/contributions/profile-night-green.svg" alt="Calendário tridimensional de contribuições"/>
@@ -79,6 +88,8 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 
 <div align="center">
 
-`BUILD SYSTEMS  /  CONNECT IDEAS  /  KEEP LEARNING`
+**Fim do episódio.** Nenhum servidor foi ferido durante a produção desta comédia.
+
+`Continua no próximo commit...`
 
 </div>
