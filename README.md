@@ -4,13 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=It+works+on+my+machine;99+little+bugs+in+the+code;Have+you+tried+turning+it+off+and+on%3F;Powered+by+coffee+and+git+commit" alt="Piadas de programação animadas"/>
 
-**Uma série sobre um desenvolvedor, seus servidores e os bugs que se recusam a morrer.**
+**🚨 ATENÇÃO: este perfil foi homologado pelo instituto Tirei da Minha Cabeça.**
+
+Uma série sobre um desenvolvedor, seus servidores e os bugs que se recusam a morrer.
+
+![Status](https://img.shields.io/badge/status-funciona_na_minha_máquina-brightgreen) ![Café](https://img.shields.io/badge/dependência-café-brown) ![Bugs](https://img.shields.io/badge/bugs-features_não_documentadas-red)
 
 [![GitHub](https://img.shields.io/badge/Assistir-aos_repositórios-0d1117?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/CassianoMeneghetti?tab=repositories)
 
 </div>
 
-## 🍿 Episódio piloto — Quem é esse cara?
+## 🤡 Quem autorizou esse cidadão a mexer no servidor?
 
 Desenvolvedor e profissional de TI. Construo sistemas, integro APIs, automatizo processos e trabalho com infraestrutura. Atualmente estudo redes e segurança da informação.
 
@@ -21,20 +25,28 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 <img width="100%" src="./assets/friday-deploy.svg" alt="Cena fictícia de um deploy de sexta-feira"/>
 </div>
 
-## 🎭 Elenco principal — As tecnologias
+## 📺 Plantão da TI
 
-| Área | Tecnologias |
+<img width="100%" src="./assets/meme-news.svg" alt="Notícias fictícias de TI"/>
+
+## 🎭 Elenco principal — A turma do barulho
+
+| Área | Cúmplices |
 | :--- | :--- |
-| Front-end | <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind" alt="TypeScript, JavaScript, React, Vite, Tailwind"/> |
-| Back-end | <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring" alt="Python, Java, FastAPI, Spring"/> |
-| Data | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis"/> · Oracle |
-| Infrastructure | <img src="https://skillicons.dev/icons?i=docker,linux,git,powershell" alt="Docker, Linux, Git, PowerShell"/> · Windows Server |
+| Front-end: centralizar uma div | <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind" alt="TypeScript, JavaScript, React, Vite, Tailwind"/> |
+| Back-end: culpa do front | <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring" alt="Python, Java, FastAPI, Spring"/> |
+| Banco: cadê o WHERE? | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis"/> · Oracle |
+| Infra: reinicia que resolve | <img src="https://skillicons.dev/icons?i=docker,linux,git,powershell" alt="Docker, Linux, Git, PowerShell"/> · Windows Server |
 
 <div align="center">
 <img width="100%" src="./assets/tech-orbit.svg" alt="Animated orbit of development and infrastructure technologies"/>
 </div>
 
-## 🎬 Outras produções do estúdio
+## 🐱 Meu supervisor técnico
+
+<img width="100%" src="./assets/meme-cat-review.svg" alt="Gato sênior revisando código"/>
+
+## 🎬 Projetos que inexplicavelmente funcionam
 
 <div align="center">
 
@@ -47,13 +59,21 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 </div>
 
-## 🦖 Episódio especial — Corrida contra o legado
+## 🖨️ Boss final — Impressora corporativa
+
+<img width="100%" src="./assets/meme-printer.svg" alt="Batalha fictícia contra uma impressora"/>
+
+## 💀 SQL: o filme de terror
+
+<img width="100%" src="./assets/meme-sql.svg" alt="Piada fictícia sobre SQL"/>
+
+## 🦖 Corrida contra o legado — CLT Simulator
 
 <div align="center">
 <img width="100%" src="./assets/legacy-runner.svg" alt="Dinossauro animado pulando bugs"/>
 </div>
 
-## 📈 Audiência — Estatísticas reais do GitHub
+## 📈 Evidências de que eu trabalho (estatísticas reais)
 
 <div align="center">
 
@@ -64,7 +84,7 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 </div>
 
-## 🕹️ Intervalo comercial — Pac-Man
+## 🕹️ Pac-Man — terceirizei a tarefa de comer commits
 
 <div align="center">
 
@@ -76,7 +96,7 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 </div>
 
-## 🏙️ Cidade dos commits
+## 🏙️ Minha cidade no SimCity dos commits
 
 <div align="center">
 <img width="100%" src="./assets/contributions/profile-night-green.svg" alt="Calendário tridimensional de contribuições"/>
@@ -88,7 +108,11 @@ Minha rotina, em versão sitcom: resolvo problemas que ninguém sabe explicar, a
 
 <div align="center">
 
-**Fim do episódio.** Nenhum servidor foi ferido durante a produção desta comédia.
+**Fim do expediente (mentira, chegou outro chamado).**
+
+Nenhum servidor foi ferido durante esta comédia. Os memes e incidentes são fictícios.
+
+Se chegou até aqui, abra um chamado. Prazo estimado: assim que o café ficar pronto.
 
 `Continua no próximo commit...`
 
