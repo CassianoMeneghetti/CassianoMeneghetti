@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+<img width="100%" src="./assets/developer-system.svg" alt="Animated developer system boot sequence"/>
+</div>
+
 ## 01 / About
 
 Desenvolvedor e profissional de TI. Construo sistemas, integro APIs e automatizo processos para resolver problemas reais em ambientes corporativos. Meu trabalho conecta desenvolvimento de software, infraestrutura e operações.
@@ -22,6 +26,10 @@ Atualmente, também aprofundo meus conhecimentos em redes e segurança da inform
 | Back-end | <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring" alt="Python, Java, FastAPI, Spring"/> |
 | Data | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis"/> · Oracle |
 | Infrastructure | <img src="https://skillicons.dev/icons?i=docker,linux,git,powershell" alt="Docker, Linux, Git, PowerShell"/> · Windows Server |
+
+<div align="center">
+<img width="100%" src="./assets/tech-orbit.svg" alt="Animated orbit of development and infrastructure technologies"/>
+</div>
 
 ## 03 / Selected work
 
