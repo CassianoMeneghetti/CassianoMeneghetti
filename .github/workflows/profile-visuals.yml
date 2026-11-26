@@ -1,0 +1,42 @@
+name: Profile contribution visuals
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-visuals.yml'
+      - 'README.md'
+permissions:
+  contents: write
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Publish generated graphics
+        run: |
+          mkdir -p assets/contributions
+          cp dist/pacman-contribution-graph*.svg assets/contributions/
+          cp profile-3d-contrib/profile-night-green.svg assets/contributions/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh contribution visuals"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
