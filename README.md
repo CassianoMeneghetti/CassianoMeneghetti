@@ -1,126 +1,153 @@
-# 👋 Olá, eu sou Cassiano!
+<h1 align="center">👋 Olá, eu sou Cassiano Meneghetti</h1>
 
-### 💻 Desenvolvedor | Suporte Técnico | Automação & Infraestrutura
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Infraestrutura+e+Suporte+T%C3%A9cnico;Automa%C3%A7%C3%A3o+de+Processos;APIs%2C+Bancos+de+Dados+e+Integra%C3%A7%C3%B5es;Sempre+construindo+e+evoluindo" alt="Typing SVG" />
+</p>
 
-Sou profissional da área de tecnologia, com experiência em **desenvolvimento de sistemas, suporte técnico, infraestrutura, bancos de dados e automação de processos**.
-
-Gosto de transformar problemas do dia a dia em soluções práticas, automatizadas e fáceis de manter.
-
----
-
-## 🚀 Sobre mim
-
-* 💻 Desenvolvimento de aplicações web e desktop
-* ⚙️ Automação de processos e rotinas
-* 🖥️ Administração de servidores e infraestrutura
-* 🗄️ Desenvolvimento e gerenciamento de bancos de dados
-* 🖨️ Experiência com sistemas de impressão e ambientes corporativos
-* 🔌 Integrações entre sistemas e APIs
-* 📡 Redes, serviços Windows e troubleshooting
-* 🚀 Sempre estudando e desenvolvendo novos projetos
+<p align="center">
+  <a href="https://github.com/CassianoMeneghetti">
+    <img src="https://img.shields.io/badge/GitHub-CassianoMeneghetti-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 💻 Sobre mim
 
-### 💻 Desenvolvimento
+Sou profissional da área de tecnologia com experiência em:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+- desenvolvimento de sistemas
+- suporte técnico
+- infraestrutura
+- bancos de dados
+- automação de processos
+- integrações entre sistemas e APIs
 
-### 🌐 Front-end
+Gosto de transformar problemas do dia a dia em **soluções práticas, automatizadas e escaláveis**.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+### 🚀 Foco principal
+- Desenvolvimento web e back-end
+- Automação e integração de processos
+- Infraestrutura e ambientes corporativos
+- Bancos de dados e APIs
+- Redes, troubleshooting e serviços Windows
+- Evolução constante para redes e segurança
 
-### ⚙️ Back-end & APIs
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+## 🛠️ Stack e Tecnologias
+
+### 👨‍💻 Desenvolvimento
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,react,vite,tailwind,html,css" />
+</p>
+
+### ⚙️ Back-end e APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+</p>
 
 ### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-
-### 🖥️ Infraestrutura
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### 🖥️ Infraestrutura e DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,bash" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Áreas em que atuo
+
+- 🌐 Desenvolvimento de aplicações web
+- 🔌 Integrações entre sistemas e APIs
+- ⚙️ Automação de tarefas e processos
+- 🗄️ Modelagem e gerenciamento de bancos de dados
+- 🖨️ Ferramentas para ambientes corporativos e impressão
+- 🖥️ Infraestrutura, servidores e troubleshooting
+- 📡 Redes e serviços Windows
+
+---
+
+## 🚀 Projetos em destaque
 
 ### 🏢 ERP / Sistema de Gestão
+Sistema de gestão empresarial com arquitetura moderna e foco em produtividade, organização e escalabilidade.
 
-Sistema de gestão empresarial desenvolvido com arquitetura moderna, utilizando **React, TypeScript, Tailwind CSS e Python**.
-
-**Tecnologias:**
-`React` `TypeScript` `Tailwind` `FastAPI` `PostgreSQL`
+**Tecnologias:**  
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL`
 
 ---
 
 ### 📧 SMTP Tester Pro
+Aplicação voltada a diagnóstico e testes de servidores SMTP, permitindo validar conectividade, autenticação e configurações de e-mail.
 
-Aplicação para diagnóstico e testes de servidores SMTP, permitindo verificar conectividade, autenticação e configurações de e-mail.
-
-**Tecnologias:**
+**Tecnologias:**  
 `Java` `Swing` `SMTP` `OAuth`
 
 ---
 
 ### 🤖 PromoNet
-
 Projeto de automação para coleta e processamento de ofertas, geração de links e integração com serviços externos.
 
-**Tecnologias:**
+**Tecnologias:**  
 `Java` `Spring Boot` `PostgreSQL` `RabbitMQ` `Redis` `APIs`
 
 ---
 
 ### 🖨️ Ferramentas para ambientes corporativos
+Soluções e automações voltadas para gerenciamento de impressão, monitoramento de serviços, filas de impressão e infraestrutura.
 
-Desenvolvimento de ferramentas e automações voltadas para gerenciamento de impressão, monitoramento de serviços, filas de impressão e infraestrutura.
-
-**Tecnologias:**
+**Tecnologias:**  
 `Python` `PowerShell` `Java` `Windows Services` `MySQL`
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CassianoMeneghetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoMeneghetti&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CassianoMeneghetti&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CassianoMeneghetti&theme=tokyo-night&hide_border=true" />
+</p>
 
-</div>
+---
+
+## 🐍 Contribuições animadas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CassianoMeneghetti/CassianoMeneghetti/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
 ## 📫 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
-
-</div>
+<p align="center">
+  <a href="LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CassianoMeneghetti">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 💡 "Transformando problemas em soluções através da tecnologia."
-
-</div>
+<p align="center">
+  <b>💡 Transformando problemas em soluções através da tecnologia.</b>
+</p>
